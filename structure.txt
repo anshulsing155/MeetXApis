@@ -1,0 +1,24 @@
+MeetX/
+├── config/
+│   └── db.js
+├── controllers/
+│   ├── authController.js
+│   ├── activityController.js
+│   └── bookingController.js
+├── middleware/
+│   └── auth.js
+├── models/
+│   ├── User.js
+│   ├── Activity.js
+│   └── Booking.js
+├── routes/
+│   ├── authRoutes.js
+│   ├── activityRoutes.js
+│   └── bookingRoutes.js
+├── validation/
+│   └── validation.js
+├── .env
+├── .gitignore
+├── app.js
+├── server.js
+└── README.md
